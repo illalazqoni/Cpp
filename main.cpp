@@ -3,8 +3,8 @@ using namespace std;
 
 int main () {
 
-		int a = 21;
-		cout << "hasil dari a: " << a;
+	int a = 21;
+	cout << "hasil dari a: " << a;
 
-		return 0;
+	return 0;
 }
